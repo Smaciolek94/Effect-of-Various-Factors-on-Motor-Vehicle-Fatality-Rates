@@ -1,6 +1,9 @@
 # Effect-of-Various-Factors-on-Motor-Vehicle-Fatality-Rates
 This project was done for a multivariate analysis class.  Data about all of the motor vehicle accidents that occurred in the state of Vermont in the year 2016 we obtained, and analyzed to determine which factors were significant in predicting if an accident resulted in an injury or a fatality. 
 
+**The final project can be viewed here:**<br>
+https://smaciolekdatascience.wordpress.com/2020/06/11/the-effects-of-various-factors-on-motor-vehicle-accident-fatality-rates/
+
 **References:** <ul>
 <li>Jove Graham, Jennifer Irving, Xiaoqin Tang, Stephen Sellers, Joshua Crisp, Daniel Horwitz, Lucija Muehlenbachs, Alan Krupnick, & David Carey (2015). Increased traffic accident rates associated with shale gas drilling in Pennsylvania. Accident Analysis and Prevention, 74, 203-209.
 <li>Matthew G. Karlaftis, Ioannis Golias (2002). Effects of road geometry and traffic volumes on rural roadway accident rates. Accident Analysis and Prevention, 34, 357-365.
